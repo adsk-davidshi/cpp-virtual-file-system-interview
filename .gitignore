@@ -16,6 +16,10 @@ out/
 bin/
 obj/
 
+# Repository-specific generated output
+UnitTest/Debug/
+UnitTest/x64/
+
 # Test results
 TestResults/
 *.trx
