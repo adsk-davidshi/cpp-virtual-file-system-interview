@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  VirtualFileSystemFileUnitTest.cpp
+  VirtualFileSystemRenameRemoveUnitTest.cpp
+  VirtualFileSystemTraversalConcurrencyUnitTest.cpp
+  VirtualFileSystemUnitTest.cpp
+  VirtualFileUnitTest.cpp
+  VirtualFolderUnitTest.cpp
+  VirtualRootFolderUnitTest.cpp
+  Generating Code...
+     Creating library D:\code\VirtualFileSystemCpp\x64\Debug\UnitTest.lib and object D:\code\VirtualFileSystemCpp\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> D:\code\VirtualFileSystemCpp\x64\Debug\UnitTest.dll
